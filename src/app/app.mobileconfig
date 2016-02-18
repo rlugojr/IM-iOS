@@ -7,13 +7,13 @@
                    <key>FullScreen</key>
                    <true/>
                    <key>Label</key>
-                   <string>ImagicalCorp</string>
+                   <string>ImagicalMine</string>
                    <key>PayloadDescription</key>
-                   <string>Our Official ImagicalCorp App For iOS! Visit Us On GitHub! www.github.com/ImagicalMine. Our Official Site: www.imagicalmine.net</string>
+                   <string>Our Official ImagicalMine App For iOS! Visit Us On GitHub! www.github.com/ImagicalMine. Our Official Site: www.imagicalmine.net</string>
                    <key>PayloadDisplayName</key>
                    <string>Web Clip</string>
                    <key>PayloadIdentifier</key>
-                   <string>ic.com.apple.webClip.managed</string>
+                   <string>im.com.apple.webClip.managed</string>
                    <key>PayloadType</key>
                    <string>com.apple.webClip.managed</string>
                    <key>PayloadUUID</key>
@@ -27,11 +27,11 @@
             </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Our Official ImagicalCorp App For iOS! Visit Us On GitHub! www.github.com/ImagicalMine. Our Official Site: www.imagicalmine.net</string>
+    <string>Our Official ImagicalMine App For iOS! Visit Us On GitHub! www.github.com/ImagicalMine. Our Official Site: www.imagicalmine.net</string>
     <key>PayloadDisplayName</key>
-    <string>ImagicalCorp</string>
+    <string>ImagicalMine</string>
     <key>PayloadIdentifier</key>
-    <string>com.ic.app</string>
+    <string>com.im.app</string>
     <key>PayloadOrganization</key>
     <string>ImagicalCorp, Inc.</string>
     <key>PayloadRemovalDisallowed</key>
