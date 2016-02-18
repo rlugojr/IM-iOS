@@ -4,7 +4,7 @@
 
     <head>
 
-      <meta name="apple-mobile-web-capable" content="yes"
+      <meta name="apple-mobile-web-capable" content="yes">
 
       <meta name="viewport" content="width=device-width">
 
