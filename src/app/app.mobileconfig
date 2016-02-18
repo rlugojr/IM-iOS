@@ -13,7 +13,7 @@
                    <key>PayloadDisplayName</key>
                    <string>Web Clip</string>
                    <key>PayloadIdentifier</key>
-                   <string>im.com.apple.webClip.managed</string>
+                   <string>imagicalmine.com.apple.webClip.managed</string>
                    <key>PayloadType</key>
                    <string>com.apple.webClip.managed</string>
                    <key>PayloadUUID</key>
