@@ -9,7 +9,7 @@
                    <key>Label</key>
                    <string>ImagicalMine</string>
                    <key>PayloadDescription</key>
-                   <string>Our Official ImagicalMine App For iOS! Visit Us On GitHub! www.github.com/ImagicalMine. Our Official Site: www.imagicalmine.net</string>
+                   <string>Official ImagicalMine App for iOS compatibility. | GitHub project: https://github.com/ImagicalMine/IM-iOS | Official ImagicalMine website: http://imagicalmine.net</string>
                    <key>PayloadDisplayName</key>
                    <string>Web Clip</string>
                    <key>PayloadIdentifier</key>
@@ -27,13 +27,13 @@
             </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Our Official ImagicalMine App For iOS! Visit Us On GitHub! www.github.com/ImagicalMine. Our Official Site: www.imagicalmine.net</string>
+    <string>Official ImagicalMine App for iOS compatibility. | GitHub project: https://github.com/ImagicalMine/IM-iOS | Official ImagicalMine website: http://imagicalmine.net</string>
     <key>PayloadDisplayName</key>
     <string>ImagicalMine</string>
     <key>PayloadIdentifier</key>
-    <string>com.im.app</string>
+    <string>com.imagicalmine.app</string>
     <key>PayloadOrganization</key>
-    <string>ImagicalCorp, Inc.</string>
+    <string>Imagical Corporation</string>
     <key>PayloadRemovalDisallowed</key>
     <true/>
     <key>PayloadType</key>
