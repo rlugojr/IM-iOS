@@ -12,7 +12,7 @@
 
     <body>
 
-      <strong>IC-iOS is still under development. Feel free to help out on <a href="https://github.com/ImagicalMine/IC-iOS/">GitHub</a></strong>
+      <strong>IM-iOS is still under development. Feel free to help out on <a href="https://github.com/ImagicalMine/IM-iOS/">GitHub</a></strong>
 
     </body>
 
