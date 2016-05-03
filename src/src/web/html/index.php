@@ -1,4 +1,3 @@
-<!-- This website is under copyright 2016 Imagical Corporation. All rights reserved. Website designed by Dalton Edwards, @DALTONTASTIC on Twitter. -->
 <head>
   <title>ImagicalMine - Server Software for Minecraft: Pocket Edition</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
