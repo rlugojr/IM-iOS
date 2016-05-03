@@ -9,7 +9,7 @@
                    <key>Label</key>
                    <string>ImagicalMine</string>
                    <key>PayloadDescription</key>
-                   <string>Official ImagicalMine App for iOS compatibility. | GitHub project: https://github.com/ImagicalMine/IM-iOS | Official ImagicalMine website: http://imagicalmine.net</string>
+                   <string>Official ImagicalMine App for iOS compatibility. | GitHub project: https://github.com/ImagicalMine/IM-iOS | Official ImagicalMine website: https://imagicalmine.net | Official ImagicalMine forums: https://forums.imagicalmine.net</string>
                    <key>PayloadDisplayName</key>
                    <string>Web Clip</string>
                    <key>PayloadIdentifier</key>
